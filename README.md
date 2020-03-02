@@ -1,0 +1,2 @@
+# mulePlayGround
+Test mule projects
